@@ -1,4 +1,4 @@
-# COMP S380F Web Applications: Design and Development Group Project 
+# COMP S380F Web Applications: Design and Development Group Project (OMG)
 
 Group Members:
 
